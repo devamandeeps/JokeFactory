@@ -1,0 +1,53 @@
+﻿@model SideMenuViewModel;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Joke Factory</title>
+</head>
+
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- Sidebar -->
+        <div class="bg-light border-right" id="sidebar-wrapper">
+            <div class="sidebar-heading"><h4>Categories</h4></div>
+            <div class="list-group list-group-flush">
+                <a href="#" onclick="getRandomJoke();" class="list-group-item list-group-item-action bg-light capitalize">random</a>
+                @foreach (var category in Model.Categories)
+                {
+                    <a href="#" onclick="findJokeByCategory('@category');" class="list-group-item list-group-item-action bg-light capitalize">@category</a>
+                }
+            </div>
+        </div>
+        <!-- /#sidebar-wrapper -->
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <button class="btn btn-primary" id="menu-toggle">Toggle Menu</button>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                        <li class="nav-item active">
+                            <input type="checkbox" id="chkRandomNames" data-width="200" data-height="40" data-toggle="toggle" data-onstyle="success" data-offstyle="danger" data-on="Random Name On" data-off="Random Name Off">
+                        </li>                        
+                    </ul>
+                </div>
+            </nav>
+
+            <div class="container-fluid">
+                <div id="divJoke" class="joke-text"></div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->    
+</body>
+
+</html>

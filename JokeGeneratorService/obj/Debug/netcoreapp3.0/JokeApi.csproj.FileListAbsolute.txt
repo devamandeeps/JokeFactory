@@ -1,0 +1,13 @@
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.csprojAssemblyReference.cache
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.AssemblyInfoInputs.cache
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.AssemblyInfo.cs
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\JokeApi.deps.json
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\JokeApi.dll
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\JokeApi.pdb
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\Library.NetworkService.dll
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\Library.NetworkService.pdb
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\bin\Debug\netcoreapp3.0\Library.Common.pdb
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.csproj.CopyComplete
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.dll
+C:\Users\asingh\source\repos\WebApplication2\JokeGeneratorService\obj\Debug\netcoreapp3.0\JokeApi.pdb

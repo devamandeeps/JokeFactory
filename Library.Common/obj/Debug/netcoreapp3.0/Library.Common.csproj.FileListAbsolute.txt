@@ -1,0 +1,16 @@
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.deps.json
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.pdb
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.AssemblyInfoInputs.cache
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.AssemblyInfo.cs
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.pdb
+C:\Users\asingh\source\repos\WebApplication2\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.csprojAssemblyReference.cache
+C:\Users\asingh\Documents\JokeFactory\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.deps.json
+C:\Users\asingh\Documents\JokeFactory\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\Documents\JokeFactory\Library.Common\bin\Debug\netcoreapp3.0\Library.Common.pdb
+C:\Users\asingh\Documents\JokeFactory\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.csprojAssemblyReference.cache
+C:\Users\asingh\Documents\JokeFactory\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.AssemblyInfoInputs.cache
+C:\Users\asingh\Documents\JokeFactory\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.AssemblyInfo.cs
+C:\Users\asingh\Documents\JokeFactory\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\Documents\JokeFactory\Library.Common\obj\Debug\netcoreapp3.0\Library.Common.pdb

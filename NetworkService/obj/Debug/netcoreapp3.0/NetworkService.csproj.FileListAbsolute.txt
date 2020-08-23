@@ -1,0 +1,11 @@
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\bin\Debug\netcoreapp3.0\NetworkService.deps.json
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\bin\Debug\netcoreapp3.0\NetworkService.dll
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\bin\Debug\netcoreapp3.0\Library.Common.dll
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\bin\Debug\netcoreapp3.0\Library.Common.pdb
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.csprojAssemblyReference.cache
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.AssemblyInfoInputs.cache
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.AssemblyInfo.cs
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.csproj.CopyComplete
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\bin\Debug\netcoreapp3.0\NetworkService.pdb
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.dll
+C:\Users\asingh\source\repos\WebApplication2\NetworkService\obj\Debug\netcoreapp3.0\NetworkService.pdb
